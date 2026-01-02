@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/oceanja/Amazon/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/oceanja/Amazon/tree/master/1646-kth-missing-positive-number) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/oceanja/Amazon/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2690-house-robber-iv](https://github.com/oceanja/Amazon/tree/master/2690-house-robber-iv) |
 | [3790-fruits-into-baskets-ii](https://github.com/oceanja/Amazon/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-count-good-meals](https://github.com/oceanja/Amazon/tree/master/1830-count-good-meals) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/oceanja/Amazon/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/oceanja/Amazon/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/oceanja/Amazon/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
 | [2653-sliding-subarray-beauty](https://github.com/oceanja/Amazon/tree/master/2653-sliding-subarray-beauty) |
 | [2690-house-robber-iv](https://github.com/oceanja/Amazon/tree/master/2690-house-robber-iv) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/oceanja/Amazon/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1829-maximum-units-on-a-truck](https://github.com/oceanja/Amazon/tree/master/1829-maximum-units-on-a-truck) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/oceanja/Amazon/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/oceanja/Amazon/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2690-house-robber-iv](https://github.com/oceanja/Amazon/tree/master/2690-house-robber-iv) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/oceanja/Amazon/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Counting
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/oceanja/Amazon/tree/master/1306-minimum-absolute-difference) |
 | [1829-maximum-units-on-a-truck](https://github.com/oceanja/Amazon/tree/master/1829-maximum-units-on-a-truck) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/oceanja/Amazon/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/oceanja/Amazon/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Sliding Window
 |  |
