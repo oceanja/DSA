@@ -1,34 +1,28 @@
 class Solution {
 public:
-int t[1001][1001];
-bool checkPalindrome(int i,int j,string &str){
-
-    if(i>j){
-        return true;
-    }
-
-    if(t[i][j]!=-1){
-        return t[i][j];
-    }
-
-    if(str[i]==str[j]){
-       return t[i][j] = checkPalindrome(i+1,j-1,str);
-    }
-
-
-    return t[i][j]=false;
-
-
-}
-
     int countSubstrings(string s) {
         int n=s.length();
-        int cnt=0;
-        memset(t,-1,sizeof(t));
+        vector<vector<bool>> t(n,vector<bool>(n,false));
 
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(checkPalindrome(i,j,s)==true){
+        int cnt=0;
+
+        for(int l=1;l<=n;l++){
+
+            for(int i=0;i+l-1<n;i++){
+                int j=i+l-1;
+
+                if(i==j){
+                    t[i][i]=true;
+                }
+                else if(i+1==j){
+                    t[i][j]=(s[i]==s[j]);
+                }
+
+                else{
+                    t[i][j]=(s[i]==s[j] && t[i+1][j-1]);
+                }
+
+                if(t[i][j]==true){
                     cnt++;
                 }
             }
