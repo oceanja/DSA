@@ -4,8 +4,6 @@ public:
         int n=words.size();
         string ans="";
 
-        vector<int> alphabets(26);
-
         for(string &str:words){
             int wt=0;
             for(char c: str){
