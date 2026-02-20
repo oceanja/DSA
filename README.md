@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/oceanja/Amazon/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/oceanja/Amazon/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/oceanja/Amazon/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oceanja/Amazon/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/oceanja/Amazon/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/oceanja/Amazon/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/oceanja/Amazon/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/oceanja/Amazon/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/oceanja/Amazon/tree/master/0125-valid-palindrome) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/oceanja/Amazon/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/oceanja/Amazon/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/oceanja/Amazon/tree/master/0443-string-compression) |
