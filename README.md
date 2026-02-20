@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/oceanja/Amazon/tree/master/1706-min-cost-to-connect-all-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/oceanja/Amazon/tree/master/1829-maximum-units-on-a-truck) |
 | [1830-count-good-meals](https://github.com/oceanja/Amazon/tree/master/1830-count-good-meals) |
+| [1929-concatenation-of-array](https://github.com/oceanja/Amazon/tree/master/1929-concatenation-of-array) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/oceanja/Amazon/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/oceanja/Amazon/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/oceanja/Amazon/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/oceanja/Amazon/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/oceanja/Amazon/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/oceanja/Amazon/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/oceanja/Amazon/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2317-count-collisions-on-a-road](https://github.com/oceanja/Amazon/tree/master/2317-count-collisions-on-a-road) |
