@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/oceanja/Amazon/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/oceanja/Amazon/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
+| [1328-break-a-palindrome](https://github.com/oceanja/Amazon/tree/master/1328-break-a-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/oceanja/Amazon/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1829-maximum-units-on-a-truck](https://github.com/oceanja/Amazon/tree/master/1829-maximum-units-on-a-truck) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/oceanja/Amazon/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/oceanja/Amazon/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/oceanja/Amazon/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
+| [1328-break-a-palindrome](https://github.com/oceanja/Amazon/tree/master/1328-break-a-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/oceanja/Amazon/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/oceanja/Amazon/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/oceanja/Amazon/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
