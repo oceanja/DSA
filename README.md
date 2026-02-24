@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/oceanja/Amazon/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/oceanja/Amazon/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/oceanja/Amazon/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/oceanja/Amazon/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oceanja/Amazon/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/oceanja/Amazon/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/oceanja/Amazon/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
