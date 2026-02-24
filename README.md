@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/oceanja/Amazon/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/oceanja/Amazon/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/oceanja/Amazon/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oceanja/Amazon/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/oceanja/Amazon/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/oceanja/Amazon/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/oceanja/Amazon/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/oceanja/Amazon/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/oceanja/Amazon/tree/master/0647-palindromic-substrings) |
