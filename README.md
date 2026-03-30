@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/oceanja/Amazon/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2653-sliding-subarray-beauty](https://github.com/oceanja/Amazon/tree/master/2653-sliding-subarray-beauty) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/oceanja/Amazon/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3541-report-spam-message](https://github.com/oceanja/Amazon/tree/master/3541-report-spam-message) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/oceanja/Amazon/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Array
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/oceanja/Amazon/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/oceanja/Amazon/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/oceanja/Amazon/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/oceanja/Amazon/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3541-report-spam-message](https://github.com/oceanja/Amazon/tree/master/3541-report-spam-message) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/oceanja/Amazon/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Recursion
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/oceanja/Amazon/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/oceanja/Amazon/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/oceanja/Amazon/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sliding Window
 |  |
 | ------- |
