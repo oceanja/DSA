@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/oceanja/Amazon/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/oceanja/Amazon/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2690-house-robber-iv](https://github.com/oceanja/Amazon/tree/master/2690-house-robber-iv) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/oceanja/Amazon/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/oceanja/Amazon/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Counting
 |  |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/oceanja/Amazon/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/oceanja/Amazon/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/oceanja/Amazon/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/oceanja/Amazon/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3541-report-spam-message](https://github.com/oceanja/Amazon/tree/master/3541-report-spam-message) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/oceanja/Amazon/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Recursion
@@ -483,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/oceanja/Amazon/tree/master/1706-min-cost-to-connect-all-points) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/oceanja/Amazon/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
