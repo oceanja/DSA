@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/oceanja/Amazon/tree/master/1328-break-a-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/oceanja/Amazon/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/oceanja/Amazon/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/oceanja/Amazon/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/oceanja/Amazon/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2317-count-collisions-on-a-road](https://github.com/oceanja/Amazon/tree/master/2317-count-collisions-on-a-road) |
 | [2373-apply-discount-to-prices](https://github.com/oceanja/Amazon/tree/master/2373-apply-discount-to-prices) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/oceanja/Amazon/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/oceanja/Amazon/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/oceanja/Amazon/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/oceanja/Amazon/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/oceanja/Amazon/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2317-count-collisions-on-a-road](https://github.com/oceanja/Amazon/tree/master/2317-count-collisions-on-a-road) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
