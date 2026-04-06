@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/oceanja/Amazon/tree/master/0980-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/oceanja/Amazon/tree/master/1036-rotting-oranges) |
 | [1137-height-checker](https://github.com/oceanja/Amazon/tree/master/1137-height-checker) |
+| [1219-path-with-maximum-gold](https://github.com/oceanja/Amazon/tree/master/1219-path-with-maximum-gold) |
 | [1306-minimum-absolute-difference](https://github.com/oceanja/Amazon/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/oceanja/Amazon/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/oceanja/Amazon/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/oceanja/Amazon/tree/master/0967-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/oceanja/Amazon/tree/master/0980-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/oceanja/Amazon/tree/master/1036-rotting-oranges) |
+| [1219-path-with-maximum-gold](https://github.com/oceanja/Amazon/tree/master/1219-path-with-maximum-gold) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/oceanja/Amazon/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/oceanja/Amazon/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/oceanja/Amazon/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/oceanja/Amazon/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/oceanja/Amazon/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/oceanja/Amazon/tree/master/1219-path-with-maximum-gold) |
 ## Topological Sort
 |  |
 | ------- |
