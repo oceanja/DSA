@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/oceanja/Amazon/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3541-report-spam-message](https://github.com/oceanja/Amazon/tree/master/3541-report-spam-message) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/oceanja/Amazon/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/oceanja/Amazon/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/oceanja/Amazon/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3790-fruits-into-baskets-ii](https://github.com/oceanja/Amazon/tree/master/3790-fruits-into-baskets-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/oceanja/Amazon/tree/master/3875-construct-uniform-parity-array-i) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/oceanja/Amazon/tree/master/2751-robot-collisions) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/oceanja/Amazon/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/oceanja/Amazon/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/oceanja/Amazon/tree/master/3790-fruits-into-baskets-ii) |
 ## Probability and Statistics
 |  |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/oceanja/Amazon/tree/master/0023-merge-k-sorted-lists) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/oceanja/Amazon/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Merge Sort
 |  |
 | ------- |
