@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/oceanja/Amazon/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2653-sliding-subarray-beauty](https://github.com/oceanja/Amazon/tree/master/2653-sliding-subarray-beauty) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/oceanja/Amazon/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/oceanja/Amazon/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3541-report-spam-message](https://github.com/oceanja/Amazon/tree/master/3541-report-spam-message) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/oceanja/Amazon/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
 | [2653-sliding-subarray-beauty](https://github.com/oceanja/Amazon/tree/master/2653-sliding-subarray-beauty) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/oceanja/Amazon/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2690-house-robber-iv](https://github.com/oceanja/Amazon/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/oceanja/Amazon/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0980-unique-paths-iii](https://github.com/oceanja/Amazon/tree/master/0980-unique-paths-iii) |
 | [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/oceanja/Amazon/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
