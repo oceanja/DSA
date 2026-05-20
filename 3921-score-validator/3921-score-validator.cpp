@@ -3,16 +3,14 @@ public:
     vector<int> scoreValidator(vector<string>& events) {
 
         int n=events.size();
-        vector<int> ans;
+    
 
         int score=0;
         int counter=0;
 
         for(int i=0;i<n;i++){
             if(counter==10){
-                ans.push_back(score);
-                ans.push_back(counter);
-                return ans;
+                return {score,counter};
             }
 
             if(events[i]=="W"){
@@ -31,10 +29,9 @@ public:
             }  
         }
 
-        ans.push_back(score);
-        ans.push_back(counter);
+       
 
-        return ans;
+        return {score,counter};
         
     }
 };
