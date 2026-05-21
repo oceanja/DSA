@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/oceanja/Amazon/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3790-fruits-into-baskets-ii](https://github.com/oceanja/Amazon/tree/master/3790-fruits-into-baskets-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/oceanja/Amazon/tree/master/3875-construct-uniform-parity-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/oceanja/Amazon/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/oceanja/Amazon/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/oceanja/Amazon/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/oceanja/Amazon/tree/master/3790-fruits-into-baskets-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/oceanja/Amazon/tree/master/3925-concatenate-array-with-reverse) |
 ## Probability and Statistics
 |  |
 | ------- |
