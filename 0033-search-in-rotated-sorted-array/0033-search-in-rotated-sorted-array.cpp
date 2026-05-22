@@ -1,49 +1,66 @@
 class Solution {
 public:
 
-int bs(vector<int>& nums, int low, int high, int target){
+    int bs(vector<int>& nums, int low, int high, int target){
 
-    while(low<=high){
-        int mid= (low)+(high-low)/2;
+        while(low <= high){
 
-        if(nums[mid]==target){
-            return mid;
-        }
+            int mid = low + (high-low)/2;
 
-        else if (nums[mid]>target){
-            high=mid-1;
-        }
+            if(nums[mid] == target){
+                return mid;
+            }
 
-        else{
-            low=mid+1;
-        }
-    }
+            else if(nums[mid] > target){
+                high = mid - 1;
+            }
 
-    return -1;
-}
-    int search(vector<int>& nums, int target) {
-        int n=nums.size();
-
-        int partitionIdx=-1;
-
-        for(int i=0;i<n-1;i++){
-            if(nums[i+1]<nums[i]){
-                partitionIdx=i;
+            else{
+                low = mid + 1;
             }
         }
 
-       int ans1= bs(nums,partitionIdx+1,n-1,target);
-       int ans2= bs(nums,0,partitionIdx,target);
+        return -1;
+    }
 
-       if(ans1!=-1){
-        return ans1;
-       }
+    int search(vector<int>& nums, int target) {
 
-       if(ans2!=-1){
-        return ans2;
-       }
+        int n = nums.size();
 
-       return -1;
+        int low = 0;
+        int high = n - 1;
+
+        int pivotIdx = -1;
+
+        // find pivot
+        while(low <= high){
+
+            int mid = low + (high-low)/2;
+
+            if(mid < n-1 && nums[mid] > nums[mid+1]){
+                pivotIdx = mid;
+                break;
+            }
+
+            if(nums[mid] >= nums[low]){
+                low = mid + 1;
+            }
+
+            else{
+                high = mid - 1;
+            }
+        }
+
+  
+        if(pivotIdx == -1){
+            return bs(nums, 0, n-1, target);
+        }
+
         
+        if(target >= nums[0]){
+            return bs(nums, 0, pivotIdx, target);
+        }
+
+        return bs(nums, pivotIdx+1, n-1, target);
     }
 };
