@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/oceanja/Amazon/tree/master/1470-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/oceanja/Amazon/tree/master/1646-kth-missing-positive-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/oceanja/Amazon/tree/master/1706-min-cost-to-connect-all-points) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/oceanja/Amazon/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1829-maximum-units-on-a-truck](https://github.com/oceanja/Amazon/tree/master/1829-maximum-units-on-a-truck) |
 | [1830-count-good-meals](https://github.com/oceanja/Amazon/tree/master/1830-count-good-meals) |
 | [1929-concatenation-of-array](https://github.com/oceanja/Amazon/tree/master/1929-concatenation-of-array) |
