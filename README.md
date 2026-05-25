@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/oceanja/Amazon/tree/master/1340-jump-game-v) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/oceanja/Amazon/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/oceanja/Amazon/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1871-jump-game-vii](https://github.com/oceanja/Amazon/tree/master/1871-jump-game-vii) |
 | [2690-house-robber-iv](https://github.com/oceanja/Amazon/tree/master/2690-house-robber-iv) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/oceanja/Amazon/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Greedy
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/oceanja/Amazon/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
 | [1328-break-a-palindrome](https://github.com/oceanja/Amazon/tree/master/1328-break-a-palindrome) |
+| [1871-jump-game-vii](https://github.com/oceanja/Amazon/tree/master/1871-jump-game-vii) |
 | [1894-merge-strings-alternately](https://github.com/oceanja/Amazon/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/oceanja/Amazon/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/oceanja/Amazon/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/oceanja/Amazon/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/oceanja/Amazon/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/oceanja/Amazon/tree/master/0940-fruit-into-baskets) |
+| [1871-jump-game-vii](https://github.com/oceanja/Amazon/tree/master/1871-jump-game-vii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/oceanja/Amazon/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2653-sliding-subarray-beauty](https://github.com/oceanja/Amazon/tree/master/2653-sliding-subarray-beauty) |
 ## Heap (Priority Queue)
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/oceanja/Amazon/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/oceanja/Amazon/tree/master/0724-find-pivot-index) |
+| [1871-jump-game-vii](https://github.com/oceanja/Amazon/tree/master/1871-jump-game-vii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/oceanja/Amazon/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Simulation
 |  |
