@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/oceanja/Amazon/tree/master/1871-jump-game-vii) |
 | [2690-house-robber-iv](https://github.com/oceanja/Amazon/tree/master/2690-house-robber-iv) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/oceanja/Amazon/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/oceanja/Amazon/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/oceanja/Amazon/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/oceanja/Amazon/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union Find
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/oceanja/Amazon/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/oceanja/Amazon/tree/master/0826-soup-servings) |
 | [2050-count-good-numbers](https://github.com/oceanja/Amazon/tree/master/2050-count-good-numbers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/oceanja/Amazon/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/oceanja/Amazon/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
