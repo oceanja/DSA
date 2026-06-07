@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/oceanja/Amazon/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/oceanja/Amazon/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/oceanja/Amazon/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/oceanja/Amazon/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/oceanja/Amazon/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/oceanja/Amazon/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/oceanja/Amazon/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/oceanja/Amazon/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/oceanja/Amazon/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/oceanja/Amazon/tree/master/0940-fruit-into-baskets) |
 | [1830-count-good-meals](https://github.com/oceanja/Amazon/tree/master/1830-count-good-meals) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/oceanja/Amazon/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/oceanja/Amazon/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/oceanja/Amazon/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/oceanja/Amazon/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2126-destroying-asteroids](https://github.com/oceanja/Amazon/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/oceanja/Amazon/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/oceanja/Amazon/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/oceanja/Amazon/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2574-left-and-right-sum-differences](https://github.com/oceanja/Amazon/tree/master/2574-left-and-right-sum-differences) |
 | [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
