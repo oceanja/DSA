@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/oceanja/Amazon/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/oceanja/Amazon/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/oceanja/Amazon/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2574-left-and-right-sum-differences](https://github.com/oceanja/Amazon/tree/master/2574-left-and-right-sum-differences) |
 | [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
 | [2653-sliding-subarray-beauty](https://github.com/oceanja/Amazon/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/oceanja/Amazon/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/oceanja/Amazon/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/oceanja/Amazon/tree/master/0724-find-pivot-index) |
 | [1871-jump-game-vii](https://github.com/oceanja/Amazon/tree/master/1871-jump-game-vii) |
+| [2574-left-and-right-sum-differences](https://github.com/oceanja/Amazon/tree/master/2574-left-and-right-sum-differences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/oceanja/Amazon/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Simulation
 |  |
