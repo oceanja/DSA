@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/oceanja/Amazon/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/oceanja/Amazon/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/oceanja/Amazon/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/oceanja/Amazon/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/oceanja/Amazon/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3790-fruits-into-baskets-ii](https://github.com/oceanja/Amazon/tree/master/3790-fruits-into-baskets-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/oceanja/Amazon/tree/master/3875-construct-uniform-parity-array-i) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/oceanja/Amazon/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/oceanja/Amazon/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/oceanja/Amazon/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/oceanja/Amazon/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/oceanja/Amazon/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Counting
 |  |
