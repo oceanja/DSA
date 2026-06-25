@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/oceanja/Amazon/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/oceanja/Amazon/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/oceanja/Amazon/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/oceanja/Amazon/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/oceanja/Amazon/tree/master/0299-bulls-and-cows) |
 | [0460-lfu-cache](https://github.com/oceanja/Amazon/tree/master/0460-lfu-cache) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/oceanja/Amazon/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/oceanja/Amazon/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/oceanja/Amazon/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/oceanja/Amazon/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/oceanja/Amazon/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/oceanja/Amazon/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/oceanja/Amazon/tree/master/0299-bulls-and-cows) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/oceanja/Amazon/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/oceanja/Amazon/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
