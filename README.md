@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/oceanja/Amazon/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/oceanja/Amazon/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/oceanja/Amazon/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/oceanja/Amazon/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/oceanja/Amazon/tree/master/0299-bulls-and-cows) |
 | [0460-lfu-cache](https://github.com/oceanja/Amazon/tree/master/0460-lfu-cache) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/oceanja/Amazon/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/oceanja/Amazon/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/oceanja/Amazon/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/oceanja/Amazon/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/oceanja/Amazon/tree/master/0312-burst-balloons) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/oceanja/Amazon/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
