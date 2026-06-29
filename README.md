@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/oceanja/Amazon/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/oceanja/Amazon/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/oceanja/Amazon/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/oceanja/Amazon/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/oceanja/Amazon/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/oceanja/Amazon/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/oceanja/Amazon/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/oceanja/Amazon/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/oceanja/Amazon/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/oceanja/Amazon/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/oceanja/Amazon/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/oceanja/Amazon/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/oceanja/Amazon/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/oceanja/Amazon/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/oceanja/Amazon/tree/master/0680-valid-palindrome-ii) |
