@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/oceanja/Amazon/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/oceanja/Amazon/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/oceanja/Amazon/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/oceanja/Amazon/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/oceanja/Amazon/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/oceanja/Amazon/tree/master/0097-interleaving-string) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/oceanja/Amazon/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/oceanja/Amazon/tree/master/0155-min-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/oceanja/Amazon/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2317-count-collisions-on-a-road](https://github.com/oceanja/Amazon/tree/master/2317-count-collisions-on-a-road) |
