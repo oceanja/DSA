@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/oceanja/Amazon/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0704-binary-search](https://github.com/oceanja/Amazon/tree/master/0704-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/oceanja/Amazon/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/oceanja/Amazon/tree/master/1646-kth-missing-positive-number) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/oceanja/Amazon/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/oceanja/Amazon/tree/master/0525-contiguous-array) |
 | [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/oceanja/Amazon/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/oceanja/Amazon/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/oceanja/Amazon/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
