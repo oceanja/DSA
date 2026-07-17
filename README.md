@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/oceanja/Amazon/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/oceanja/Amazon/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/oceanja/Amazon/tree/master/0337-house-robber-iii) |
+| [0392-is-subsequence](https://github.com/oceanja/Amazon/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/oceanja/Amazon/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/oceanja/Amazon/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/oceanja/Amazon/tree/master/0740-delete-and-earn) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/oceanja/Amazon/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/oceanja/Amazon/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/oceanja/Amazon/tree/master/0299-bulls-and-cows) |
+| [0392-is-subsequence](https://github.com/oceanja/Amazon/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/oceanja/Amazon/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/oceanja/Amazon/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/oceanja/Amazon/tree/master/0647-palindromic-substrings) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/oceanja/Amazon/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/oceanja/Amazon/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/oceanja/Amazon/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/oceanja/Amazon/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/oceanja/Amazon/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/oceanja/Amazon/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/oceanja/Amazon/tree/master/0680-valid-palindrome-ii) |
