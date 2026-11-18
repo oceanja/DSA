@@ -3,28 +3,43 @@ public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n=nums.size();
 
+        vector<int> prefix(n);
+        vector<int> suffix(n);
         vector<int> answer(n);
 
-        vector<int> prefixProd(n+1);
-        vector<int> suffixProd(n+1);
+        prefix[0]=nums[0];
+        suffix[n-1]=nums[n-1];
+        // p-> [1,2,6,24]
+        //s->[24,24,12,4]
 
-        prefixProd[0]=1;
-        suffixProd[n-1]=1;
-
-
-        for(int i=1;i<=n;i++){
-            prefixProd[i]=prefixProd[i-1]*nums[i-1];
+        for(int i=1;i<n;i++){
+            prefix[i]=prefix[i-1]*nums[i];
         }
 
         for(int i=n-2;i>=0;i--){
-            suffixProd[i]=nums[i+1]*suffixProd[i+1];
+            suffix[i]=suffix[i+1]*nums[i];
         }
 
         for(int i=0;i<n;i++){
-            answer[i]=prefixProd[i]*suffixProd[i];
+            if(i==0){
+                answer[i]=suffix[1];
+            }
+
+            else if(i==n-1){
+                answer[i]=prefix[n-2];
+            }
+
+            else{
+                answer[i]=prefix[i-1]*suffix[i+1];
+            }
         }
 
+
         return answer;
+
+
+
+
         
     }
 };
