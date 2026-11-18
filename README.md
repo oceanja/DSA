@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/oceanja/Amazon/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/oceanja/Amazon/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/oceanja/Amazon/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/oceanja/Amazon/tree/master/0652-find-duplicate-subtrees) |
 | [0740-delete-and-earn](https://github.com/oceanja/Amazon/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/oceanja/Amazon/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/oceanja/Amazon/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/oceanja/Amazon/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/oceanja/Amazon/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/oceanja/Amazon/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/oceanja/Amazon/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/oceanja/Amazon/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/oceanja/Amazon/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/oceanja/Amazon/tree/master/0724-find-pivot-index) |
 | [1871-jump-game-vii](https://github.com/oceanja/Amazon/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/oceanja/Amazon/tree/master/2574-left-and-right-sum-differences) |
