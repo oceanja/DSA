@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/oceanja/Amazon/tree/master/0826-soup-servings) |
 | [0967-minimum-falling-path-sum](https://github.com/oceanja/Amazon/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/oceanja/Amazon/tree/master/0972-knight-dialer) |
+| [1143-longest-common-subsequence](https://github.com/oceanja/Amazon/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/oceanja/Amazon/tree/master/1340-jump-game-v) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/oceanja/Amazon/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/oceanja/Amazon/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/oceanja/Amazon/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/oceanja/Amazon/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
+| [1143-longest-common-subsequence](https://github.com/oceanja/Amazon/tree/master/1143-longest-common-subsequence) |
 | [1328-break-a-palindrome](https://github.com/oceanja/Amazon/tree/master/1328-break-a-palindrome) |
 | [1871-jump-game-vii](https://github.com/oceanja/Amazon/tree/master/1871-jump-game-vii) |
 | [1894-merge-strings-alternately](https://github.com/oceanja/Amazon/tree/master/1894-merge-strings-alternately) |
@@ -630,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/oceanja/Amazon/tree/master/0128-longest-consecutive-sequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/oceanja/Amazon/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
