@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/oceanja/Amazon/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/oceanja/Amazon/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/oceanja/Amazon/tree/master/0273-integer-to-english-words) |
 | [2050-count-good-numbers](https://github.com/oceanja/Amazon/tree/master/2050-count-good-numbers) |
 ## Linked List
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/oceanja/Amazon/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/oceanja/Amazon/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/oceanja/Amazon/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/oceanja/Amazon/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/oceanja/Amazon/tree/master/0460-lfu-cache) |
 ## Design
 |  |
